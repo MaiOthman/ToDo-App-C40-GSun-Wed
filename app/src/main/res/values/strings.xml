@@ -12,4 +12,5 @@
     <string name="required">Required</string>
     <string name="select_time_because_it_s_required">Select Time because it\'s Required</string>
     <string name="select_date_because_it_s_required">Select Date because it\'s required</string>
+    <string name="save_changes">save changes</string>
 </resources>

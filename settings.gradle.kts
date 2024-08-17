@@ -16,9 +16,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven(url = "https://jitpack.io")
+
     }
 }
 
 rootProject.name = "ToDo App C40 GSunWed"
 include(":app")
- 
