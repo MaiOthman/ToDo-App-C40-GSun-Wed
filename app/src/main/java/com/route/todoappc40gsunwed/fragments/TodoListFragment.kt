@@ -20,7 +20,6 @@ import com.route.todoappc40gsunwed.WeekDayViewContainer
 import com.route.todoappc40gsunwed.activity.EditTaskActivity
 import com.route.todoappc40gsunwed.callbacks.SetOnItemClickListner
 import com.route.todoappc40gsunwed.adapter.TaskAdapter
-import com.route.todoappc40gsunwed.callbacks.OnTaskAddedListener
 import com.route.todoappc40gsunwed.clearTime
 import com.route.todoappc40gsunwed.database.TaskDatabase
 import com.route.todoappc40gsunwed.database.model.Task
